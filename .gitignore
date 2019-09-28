@@ -5,3 +5,6 @@ project/.sbt
 .metals
 metals.lock.db
 
+/.idea/
+/zio-workshop.ipr
+/zio-workshop.iws
